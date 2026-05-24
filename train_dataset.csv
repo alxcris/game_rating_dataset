@@ -1,0 +1,612 @@
+nume,an_lansare,gen_principal,nr_platforme,timp_joc_mediu,rating_utilizatori,nr_recenzii,nr_realizari,este_hit
+Sonic Adventure 2,2001,Action,6,2,3.96,375,0,1
+Grand Theft Auto: Vice City,2002,Action,8,2,4.45,3128,0,1
+Saints Row IV,2013,Action,6,13,3.82,1654,0,1
+Life is Strange: Before The Storm,2017,Adventure,7,11,3.95,1268,0,0
+Return Of The Obra Dinn,2018,Adventure,5,5,4.33,774,0,1
+Alien: Isolation,2014,Action,6,4,4.21,1482,0,1
+Black Desert Online,2014,Action,3,4,2.91,654,0,0
+Metro 2033,2010,Action,2,2,3.94,2302,0,0
+Sherlock Holmes: The Devil's Daughter,2016,Action,4,7,3.7,382,0,0
+Subnautica,2018,Adventure,7,10,4.24,1506,0,1
+Max Payne,2001,Action,7,2,4.45,2083,0,1
+Mortal Kombat Komplete Edition,2013,Arcade,3,7,4.12,961,0,1
+God of War III Remastered,2015,Action,1,6,4.12,1061,0,1
+Hitman 2,2018,Action,3,5,4.04,1236,0,1
+The Last of Us Part II,2020,Action,2,0,4.42,2101,0,1
+Left 4 Dead 2,2009,Action,4,9,4.1,3437,0,1
+Dead Space 3,2013,Action,4,4,3.65,774,0,0
+Sniper Elite 4,2017,Action,6,6,3.58,755,0,0
+Hitman: Absolution,2012,Action,7,7,3.76,1666,0,0
+Risen 2: Dark Waters,2012,Action,3,4,3.43,396,0,0
+Hacknet,2015,Simulation,3,3,3.19,494,0,1
+Bully: Scholarship Edition,2008,Action,4,2,4.13,779,0,0
+DOOM Eternal,2020,Action,5,12,4.37,1465,0,1
+Ori and the Will of the Wisps,2020,Action,4,11,4.41,1339,0,1
+Rayman Legends,2013,Platformer,8,5,4.16,1579,0,1
+Mass Effect: Andromeda,2017,Action,3,23,3.21,1186,0,0
+Chaos on Deponia,2012,Adventure,7,5,4.06,322,0,0
+No Man's Sky,2016,Action,5,15,3.71,1596,0,0
+Maneater,2020,Action,6,4,3.42,262,0,0
+Fable: The Lost Chapters,2005,Action,3,2,4.44,838,0,1
+Tacoma,2017,Adventure,5,4,3.67,312,0,0
+Half-Life,1998,Action,5,3,4.38,2473,0,1
+EVE Online,2003,Action,3,3,3.34,366,0,1
+ARK: Survival Evolved,2015,Action,7,6,3.08,674,0,0
+The Turing Test,2016,Adventure,4,4,3.58,330,0,0
+Wolfenstein: The New Order,2014,Action,5,12,4.18,2541,0,1
+Ryse: Son of Rome,2013,Action,2,6,3.59,995,0,0
+Two Point Hospital,2018,RPG,6,4,3.74,411,0,1
+Lucius,2012,Action,1,4,3.13,244,0,0
+Dota 2,2013,Action,3,14,3.07,2902,0,1
+Neverwinter,2013,Action,3,6,2.92,649,0,0
+Baldur's Gate III,2023,Adventure,4,20,4.45,1063,0,1
+Call of Cthulhu,2018,Action,4,5,3.52,387,0,0
+Deus Ex: Mankind Divided,2016,Action,5,7,3.96,2038,0,1
+The Secret of Monkey Island: Special Edition,2009,Adventure,3,2,4.18,333,0,1
+Thief II: The Metal Age,2000,Action,1,1,4.12,178,0,1
+Need For Speed: Hot Pursuit,2010,Racing,7,3,3.86,784,0,1
+Call of Duty: Black Ops II,2012,Action,5,5,3.96,1447,0,0
+Hitman 2: Silent Assassin,2002,Action,6,1,3.94,656,0,1
+Steel Rats,2018,Action,3,2,2.63,98,0,0
+Overlord,2007,Action,4,1,3.82,641,0,1
+Tricky Towers,2016,Arcade,8,3,3.67,457,0,1
+PAYDAY 2,2013,Action,3,9,3.52,2267,0,0
+Into the Breach,2018,RPG,4,5,4.3,817,0,1
+Darkwood,2017,Action,6,2,3.8,256,0,0
+Mass Effect 2,2010,Action,4,22,4.46,3111,0,1
+Fallout: New Vegas,2010,Action,5,12,4.43,2658,0,1
+Metal Gear Rising: Revengeance,2013,Action,5,6,4.25,1267,0,1
+A Way Out,2018,Action,3,6,4.12,1669,0,0
+RimWorld,2016,Strategy,3,19,4.36,628,0,1
+Inscryption,2021,Adventure,6,8,4.38,614,0,1
+Life is Strange,2015,Adventure,9,6,4.12,3823,0,1
+The Last Of Us,2013,Action,2,15,4.54,3408,0,1
+PlanetSide 2,2012,Action,2,3,2.97,528,0,1
+Diablo III: Reaper of Souls,2014,Action,6,20,4.17,915,0,1
+Days Gone,2019,Action,2,10,3.97,1433,0,0
+Need for Speed Heat,2019,Racing,3,3,3.26,566,0,0
+Persona 4 Golden,2012,RPG,6,10,4.44,619,0,1
+OKAMI HD,2017,Action,5,4,4.18,361,0,1
+Day of Defeat,2003,Action,3,1,2.83,280,0,0
+Dishonored: Death of the Outsider,2017,Action,3,9,4.05,635,0,1
+Tom Clancy's Ghost Recon Wildlands,2017,Action,3,18,3.57,729,0,0
+This War of Mine,2014,Adventure,7,4,4.07,1257,0,1
+Overwatch,2016,Action,4,35,4.13,1175,0,1
+Kane & Lynch 2: Dog Days,2010,Action,3,2,3.25,521,0,0
+Saints Row 2,2008,Action,5,2,3.57,902,0,0
+The Legend of Zelda: Breath of the Wild,2017,Action,2,121,4.47,3258,0,1
+Risen,2009,Action,2,4,3.81,539,0,0
+Poker Night at the Inventory,2010,Sports,2,3,3.4,251,0,0
+Sid Meier's Civilization V,2010,Strategy,3,27,4.29,2037,0,1
+Batman: Arkham Asylum Game of the Year Edition,2010,Action,4,8,4.39,1586,0,1
+Warhammer: End Times - Vermintide,2015,Action,3,5,3.47,448,0,0
+SpaceChem,2011,Strategy,4,2,3.09,240,0,1
+Bastion,2011,Action,9,4,4.15,1688,0,1
+Warhammer: Vermintide 2,2018,Action,3,7,3.61,789,0,1
+Slay the Spire,2019,RPG,8,12,4.36,1099,0,1
+Metal Gear Solid V: Ground Zeroes,2014,Action,5,3,3.91,1723,0,1
+Realm of the Mad God,2012,Action,3,2,3.09,248,0,1
+Borderlands: The Pre-Sequel,2014,Action,6,6,3.56,1395,0,0
+Enter the Gungeon,2016,Action,6,6,4.07,1084,0,1
+Tropico 5,2014,RPG,5,5,3.64,546,0,0
+Portal Knights,2016,Action,6,4,2.98,358,0,0
+Kingdoms of Amalur: Reckoning,2012,Action,3,6,3.61,482,0,1
+Age of Empires II HD,2013,Strategy,1,6,4.2,593,0,0
+Star Wars Jedi Knight II: Jedi Outcast,2002,Action,7,1,4.2,457,0,1
+Mortal Kombat X,2015,Action,3,7,3.86,2126,0,0
+Borderlands 2,2012,Action,7,11,4.01,3342,0,1
+S.T.A.L.K.E.R.: Clear Sky,2008,Shooter,5,3,3.88,908,0,0
+Half-Life 2: Episode Two,2007,Action,5,5,4.46,2032,0,1
+Half-Life 2: Episode One,2006,Action,5,4,4.38,2080,0,1
+Killing Floor 2,2016,Action,3,9,3.53,819,0,0
+Amnesia: A Machine for Pigs,2013,Action,3,2,3.23,693,0,0
+Planet Coaster,2016,Strategy,5,5,3.78,294,0,1
+Superhot: Mind Control Delete,2020,Action,5,2,3.86,394,0,0
+Crossout,2017,Action,3,3,2.81,497,0,0
+RiME,2017,Adventure,4,4,3.67,786,0,0
+Call of Juarez: Gunslinger,2013,Action,5,5,3.81,855,0,0
+The Elder Scrolls IV: Oblivion,2006,Adventure,4,4,4.34,970,0,1
+Endless Legend,2014,RPG,2,6,3.64,374,0,1
+Thief,2014,Action,6,5,3.26,1283,0,0
+Race The Sun,2013,Action,10,3,3.15,408,0,0
+Teleglitch: Die More Edition,2013,Action,3,2,2.74,147,0,0
+Orcs Must Die!,2011,Action,2,3,3.7,435,0,1
+Sleeping Dogs,2012,Action,3,14,4.13,1345,0,1
+Rage,2011,Action,4,5,3.43,843,0,0
+Resident Evil Revelations 2,2015,Action,7,4,3.69,782,0,0
+Need for Speed,2015,Racing,3,4,3.38,830,0,0
+God of War (2018),2018,Action,2,15,4.54,5268,0,1
+Counter-Strike: Global Offensive,2012,Shooter,4,64,3.57,3676,0,1
+Dungeon of the Endless,2014,Adventure,6,3,3.61,270,0,0
+Syberia 2,2004,Adventure,9,5,3.89,580,0,1
+Call of Duty 4: Modern Warfare,2007,Action,8,6,4.39,1868,0,1
+Orcs Must Die! 2,2012,Action,1,6,3.71,530,0,1
+Dust: An Elysian Tail,2012,Action,7,4,3.63,634,0,1
+Yakuza 0,2015,Action,4,8,4.36,1167,0,1
+Uncharted 2: Among Thieves,2009,Action,2,13,4.38,1822,0,1
+Tomb Raider: Legend,2006,Action,7,2,3.91,535,0,1
+The Red Solstice,2015,Action,1,4,2.27,169,0,0
+Starbound,2016,Action,3,17,3.82,853,0,1
+World of Tanks,2010,Action,4,2,2.92,710,0,0
+Half-Life 2,2004,Action,6,7,4.48,4134,0,1
+POSTAL 2,2003,Action,3,4,3.91,1086,0,0
+Terraria,2011,Action,13,15,4.07,2501,0,1
+Dragon's Dogma: Dark Arisen,2013,Action,6,7,3.91,690,0,1
+Beyond: Two Souls,2013,Action,3,4,3.81,1802,0,0
+Snake Pass,2017,Adventure,4,3,3.23,256,0,0
+Bomber Crew,2017,Strategy,6,3,3.11,141,0,0
+System Shock (1994),1994,Action,1,3,3.98,183,0,1
+Viking: Battle for Asgard,2008,Action,3,1,2.51,275,0,0
+The Elder Scrolls Online: Tamriel Unlimited,2015,Action,4,16,3.48,773,0,0
+Loop Hero,2021,RPG,7,10,4.04,487,0,1
+Hitman: Codename 47,2000,Action,1,1,3.83,600,0,0
+DiRT Rally,2015,Simulation,5,4,3.69,675,0,1
+Sniper Elite V2,2012,Action,4,4,3.4,855,0,0
+NieR:Automata,2017,Action,4,13,4.37,2204,0,1
+Risk of Rain 2,2020,Action,4,8,4.14,707,0,1
+The Awesome Adventures of Captain Spirit,2018,Adventure,3,2,3.62,946,0,0
+ArmA II,2009,Action,1,1,3.19,287,0,0
+Rust,2018,Action,5,15,3.37,871,0,0
+Killing Floor,2009,Action,3,5,3.45,858,0,0
+Observеr,2017,Adventure,6,4,3.9,484,0,0
+The Sims 3,2009,Simulation,6,11,4.03,789,0,1
+Layers of Fear,2016,Adventure,6,3,3.54,1125,0,0
+Control,2019,Action,5,6,4.14,2095,0,1
+Tomb Raider II,1997,Action,6,1,3.76,303,0,0
+Need for Speed Payback,2017,Racing,3,4,3.2,752,0,0
+Age of Wonders III,2014,RPG,3,4,2.92,448,0,1
+Hellblade: Senua's Sacrifice,2017,Action,4,6,4.22,2363,0,1
+Company of Heroes: Opposing Fronts,2007,Action,1,1,3.44,233,0,1
+Darksiders Warmastered Edition,2016,Action,5,5,3.68,947,0,0
+Batman: Arkham Asylum,2009,Action,7,13,4.4,2364,0,1
+Day of the Tentacle Remastered,2016,Adventure,7,3,3.67,383,0,1
+SpeedRunners,2016,Action,6,4,3.76,528,0,1
+Homefront,2011,Shooter,3,2,2.96,827,0,0
+Counter-Strike,2000,Action,4,3,4.06,1663,0,1
+FlatOut 2,2006,Racing,4,2,4.33,655,0,0
+Mafia II,2010,Action,4,13,4.25,2231,0,0
+Metro Exodus,2019,Action,4,6,4.17,1740,0,1
+Star Wars: The Old Republic,2011,RPG,1,5,3.86,286,0,1
+Doki Doki Literature Club!,2017,Adventure,3,3,4.06,1327,0,0
+Resident Evil 6,2012,Action,7,8,3.43,1298,0,0
+Grand Theft Auto V,2013,Action,7,74,4.47,7527,0,1
+Beat Saber,2019,Action,3,7,4.35,641,0,1
+Star Wars Jedi Knight: Jedi Academy,2003,Action,7,2,4.34,661,0,1
+DiRT 3,2011,Sports,3,2,3.67,412,0,1
+DiRT Showdown,2012,Racing,3,1,3.3,440,0,0
+Fallout Tactics: Brotherhood of Steel,2001,RPG,1,1,3.36,339,0,1
+Sekiro: Shadows Die Twice,2019,Action,3,16,4.38,2157,0,1
+inFAMOUS Second Son,2014,Action,1,0,3.91,1659,0,1
+Catherine,2011,Action,4,4,4.14,516,0,1
+Far Cry 5,2018,Action,3,19,3.72,2221,0,1
+The Sims 4,2014,Strategy,5,4,3.67,1173,0,0
+Need For Speed: Most Wanted,2005,Racing,7,0,4.45,1797,0,1
+Grow Home,2014,Adventure,3,3,3.47,385,0,0
+LEGO Marvel Super Heroes,2013,Action,12,8,3.83,687,0,0
+Prince of Persia (2008),2008,Action,4,1,3.78,901,0,1
+Ghost of Tsushima,2020,Action,3,0,4.41,1181,0,1
+Fallout 3: Game of the Year Edition,2009,Action,3,4,4.14,952,0,1
+Call of Duty: Advanced Warfare,2014,Action,5,8,3.47,880,0,0
+Assassin's Creed Origins,2017,Action,3,28,3.96,2140,0,1
+The Incredible Adventures of Van Helsing,2013,Action,3,4,3.41,326,0,0
+The Ascent,2021,Action,5,4,3.33,330,0,0
+Flower,2009,Adventure,5,2,3.97,571,0,1
+Assassin's Creed 2 Deluxe Edition,2010,Action,2,13,4.33,542,0,1
+Gwent: The Witcher Card Game,2018,RPG,5,2,3.59,1041,0,1
+Tom Clancy’s The Division,2016,Action,3,27,3.7,1349,0,1
+Serious Sam: The Second Encounter,2002,Action,1,1,4.01,526,0,1
+Darksiders II Deathinitive Edition,2015,Action,4,9,3.79,689,0,0
+World of Goo,2008,Strategy,7,1,4.02,845,0,1
+The Evil Within,2014,Action,5,6,3.98,1189,0,0
+Deep Rock Galactic,2020,Action,3,7,4.1,702,0,1
+Mirror's Edge,2008,Action,3,3,4.07,2409,0,1
+Drawful 2,2016,Strategy,5,1,3.2,316,0,0
+Dying Light,2015,Action,4,22,4.1,1444,0,0
+DiRT 5,2020,Racing,5,2,3.26,246,0,0
+To the Moon,2011,Action,6,4,4.29,1155,0,1
+Fallout Shelter,2015,RPG,6,3,3.42,1546,0,0
+Crash Bandicoot 3: Warped,1998,Action,1,5,4.35,653,0,1
+Two Worlds Epic Edition,2009,RPG,3,5,2.8,187,0,0
+Paladins,2016,Action,5,6,3.08,1426,0,0
+Spec Ops: The Line,2012,Action,4,5,4.1,1970,0,0
+American Truck Simulator,2016,Simulation,3,6,3.99,255,0,0
+Demon's Souls,2009,Action,1,38,4.27,551,0,1
+Monster Hunter: World,2018,Action,3,15,4.01,1650,0,1
+Sunset Overdrive,2014,Action,2,4,3.9,733,0,1
+The Dark Pictures Anthology: Man of Medan,2019,Action,4,5,3.63,789,0,0
+Baldur's Gate II: Enhanced Edition,2013,RPG,7,4,4.26,244,0,0
+DISTRAINT,2015,Adventure,1,3,3.06,248,0,0
+Sid Meier’s Civilization VI,2016,Strategy,7,15,4.17,1448,0,1
+Grand Theft Auto III,2001,Action,7,1,4.15,1663,0,1
+Wolfenstein: The Old Blood,2015,Action,3,7,4.0,1159,0,0
+Genshin Impact,2020,Action,6,0,3.55,1118,0,1
+Detroit: Become Human,2018,Action,2,10,4.34,3401,0,0
+Crysis 3,2013,Action,4,2,3.7,681,0,0
+The Wolf Among Us,2013,Adventure,8,9,4.39,2206,0,1
+SEGA Mega Drive and Genesis Classics,2010,Action,6,2,2.98,572,0,0
+Stealth Inc 2: A Game of Clones,2014,Action,7,4,2.84,222,0,0
+Mini Ninjas,2009,Action,6,1,3.51,230,0,0
+Call of Duty: Black Ops III,2015,Action,5,16,3.27,1517,0,0
+Ruiner,2017,Action,6,4,3.72,604,0,0
+Far Cry 3,2012,Action,5,16,4.26,3037,0,1
+Lords of the Fallen (2014),2014,Action,5,4,2.91,906,0,0
+Tomb Raider: Anniversary,2007,Action,7,2,3.95,452,0,1
+Crysis Warhead,2008,Action,1,2,3.81,429,0,1
+Divine Divinity,2002,Action,2,1,3.5,270,0,1
+Jotun: Valhalla Edition,2015,Action,6,3,3.06,513,0,0
+Final Fantasy VII,2020,Action,3,0,4.37,856,0,1
+The Ship: Murder Party,2006,Action,1,3,2.99,181,0,0
+Batman: Arkham Origins,2013,Action,4,12,3.95,1614,0,0
+Styx: Master of Shadows,2014,Action,3,3,3.16,471,0,0
+Sonic Mania,2017,Action,4,3,3.86,871,0,1
+Shadow Warrior (2013),2013,Action,6,4,3.64,597,0,0
+War Thunder,2013,Action,5,6,3.19,1049,0,1
+Life is Strange 2,2018,Adventure,6,6,3.8,791,0,0
+FINAL FANTASY XIII,2009,RPG,4,7,3.46,693,0,0
+A Story About My Uncle,2014,Adventure,3,3,3.15,650,0,0
+Resident Evil 2,2019,Action,6,11,4.5,2328,0,1
+Team Fortress 2,2007,Action,3,8,3.68,2970,0,1
+Trine 2: Complete Story,2013,Action,5,4,3.72,899,0,1
+Gears of War 2,2008,Shooter,2,22,4.28,722,0,1
+Mount & Blade,2008,Action,1,4,3.91,360,0,0
+Pillars of Eternity,2015,RPG,5,9,3.96,734,0,1
+Dungeons 2,2015,RPG,5,4,2.84,269,0,0
+The Walking Dead: Season 1,2012,Action,10,8,4.36,2514,0,1
+Watch Dogs 2,2016,Action,3,17,3.84,1793,0,0
+Broforce,2015,Action,5,6,4.02,1330,0,1
+Spiritfarer,2020,Adventure,6,5,4.12,387,0,1
+DiRT Rally 2.0,2019,Simulation,3,2,3.57,336,0,1
+DuckTales: Remastered,2013,Adventure,7,3,3.77,378,0,0
+Tom Clancy’s Splinter Cell Blacklist,2013,Action,5,10,4.08,581,0,1
+Far Cry 4,2014,Shooter,5,17,3.82,1969,0,1
+Human: Fall Flat,2016,Action,8,5,3.83,1044,0,0
+Unravel,2016,Action,5,2,3.94,791,0,0
+Limbo,2010,Action,11,3,4.14,3448,0,1
+Psychonauts,2005,Action,10,4,4.05,1001,0,1
+Murdered: Soul Suspect,2014,Action,5,5,3.47,996,0,0
+Dark Souls II: Scholar of the First Sin,2015,Action,3,25,4.14,1231,0,0
+STAR WARS: The Force Unleashed II,2010,Action,6,3,3.66,574,0,0
+Sang-Froid - Tales of Werewolves,2013,Action,1,2,2.23,111,0,0
+Lara Croft and the Temple of Osiris,2014,Action,3,2,3.09,652,0,0
+XCOM: Enemy Unknown,2012,Strategy,6,13,4.2,1598,0,1
+The Order: 1886,2015,Action,1,11,3.76,991,0,0
+Wolfenstein II: The New Colossus,2017,Action,4,11,4.09,1798,0,1
+Titan Souls,2015,Action,4,1,3.33,530,0,0
+Half-Life: Alyx,2020,Action,1,5,4.35,516,0,1
+Dark Souls,2011,Action,3,48,4.34,945,0,1
+Quake,1996,Action,13,1,4.26,492,0,1
+Vanquish,2010,Action,4,4,4.02,571,0,0
+Bulletstorm,2011,Action,4,4,4.08,866,0,1
+Crypt of the NecroDancer,2015,Action,8,4,3.99,601,0,1
+"Warhammer 40,000: Dawn of War II Chaos Rising",2010,RPG,3,4,3.95,237,0,1
+Stardew Valley,2016,RPG,9,13,4.39,2499,0,1
+Pathologic 2,2019,Adventure,3,4,4.06,323,0,0
+XCOM 2,2016,RPG,5,15,4.1,1327,0,1
+Dying Light 2 Stay Human,2022,Action,6,23,3.64,457,0,0
+Red Dead Redemption,2010,Action,8,6,4.42,2232,0,1
+Fallout 4,2015,Action,4,38,3.81,3469,0,1
+Serious Sam HD:  The First Encounter,2009,Action,3,4,3.92,575,0,0
+Hitman,2016,Action,5,7,3.93,2046,0,1
+Downwell,2015,Action,6,2,3.85,460,0,1
+Overlord: Raising Hell,2008,RPG,5,2,3.71,207,0,0
+The Banner Saga,2014,RPG,8,5,4.09,750,0,1
+Tom Clancy's Splinter Cell: Conviction,2010,Action,6,5,3.84,686,0,1
+Mass Effect: Legendary Edition,2021,Action,5,12,4.57,597,0,1
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2007,Action,5,3,4.27,1375,0,1
+Endless Space 2,2016,Strategy,2,5,3.87,230,0,1
+Mafia III,2016,Action,4,9,3.14,1392,0,0
+Rocket League,2015,Sports,6,21,3.93,2885,0,1
+Dead Island Riptide,2013,Action,3,5,3.42,477,0,0
+Resident Evil Revelations,2012,Action,8,8,3.76,645,0,0
+Night in the Woods,2017,Adventure,7,6,4.25,688,0,1
+Broken Age,2014,Adventure,9,5,3.65,695,0,1
+What Remains of Edith Finch,2017,Adventure,5,3,4.38,2066,0,1
+Middle-earth: Shadow of Mordor,2014,Action,7,13,3.91,2585,0,1
+Dungeon Siege 3,2011,Action,3,2,3.11,229,0,0
+Lara Croft and the Guardian of Light,2010,Action,5,2,3.43,506,0,1
+TEKKEN 7,2015,Action,3,7,4.02,788,0,1
+Styx: Shards of Darkness,2017,Action,3,3,3.36,202,0,0
+Little Inferno,2012,Adventure,7,3,3.84,395,0,0
+Fahrenheit: Indigo Prophecy Remastered,2015,Action,5,4,4.15,528,0,0
+South Park: The Stick of Truth,2014,Adventure,6,12,4.23,1738,0,1
+Europa Universalis IV,2013,Strategy,3,6,4.22,401,0,1
+Two Worlds II,2010,RPG,3,5,3.03,269,0,0
+SteamWorld Dig,2013,Action,9,4,3.83,628,0,0
+Star Wars: Squadrons,2020,Action,3,3,3.16,279,0,0
+Tyranny,2016,RPG,3,5,4.07,468,0,1
+Worms Revolution,2012,Strategy,3,4,3.58,274,0,0
+Insurgency,2014,Action,3,4,3.42,973,0,0
+PAC-MAN CHAMPIONSHIP EDITION 2,2016,Arcade,4,1,3.13,200,0,0
+Deus Ex: Human Revolution - Director's Cut,2013,Action,5,6,4.3,1392,0,1
+LEGO Star Wars - The Complete Saga,2007,Action,9,3,4.1,649,0,0
+Company of Heroes: Tales of Valor,2009,Strategy,1,1,3.39,204,0,0
+F1 2018,2018,Action,3,3,3.33,201,0,1
+Journey,2012,Adventure,4,2,4.32,2482,0,1
+Battlefield 4,2013,Shooter,5,6,3.95,1630,0,1
+Red Faction Guerrilla Re-Mars-tered,2018,Action,4,4,3.47,290,0,0
+Middle-earth: Shadow of War,2017,Action,4,13,3.86,1401,0,1
+Sins of a Solar Empire: Rebellion,2012,Strategy,1,5,2.73,327,0,1
+Call of Duty: Modern Warfare Remastered,2016,Action,3,5,3.97,1148,0,1
+Rayman Origins,2011,Action,9,2,4.13,771,0,1
+Watch Dogs,2014,Action,6,16,3.6,2238,0,0
+Path of Exile,2013,Action,3,6,3.65,1657,0,1
+Battlefield 1,2016,Action,3,6,3.84,1994,0,1
+Crysis,2007,Action,3,3,4.02,1131,0,1
+Dead Island Definitive Edition,2016,Action,4,7,3.54,307,0,0
+Halo: The Master Chief Collection,2014,Action,2,7,4.25,1101,0,1
+Prince of Persia: The Two Thrones,2005,Action,8,1,4.12,716,0,1
+Hitman: Contracts,2004,Action,6,1,3.93,485,0,0
+The Elder Scrolls V: Skyrim,2011,Action,8,46,4.42,4985,0,1
+Dragon Age 2,2011,Action,5,9,3.85,873,0,1
+Hollow Knight,2017,Action,6,7,4.4,2798,0,1
+Awesomenauts,2012,Action,5,7,3.06,418,0,0
+Surviving Mars,2018,Strategy,5,4,3.47,472,0,0
+Divinity: Original Sin - Enhanced Edition,2015,RPG,5,8,4.25,1043,0,1
+Tomb Raider: Definitive Edition,2014,Action,6,1,4.09,364,0,1
+My Friend Pedro,2019,Action,5,3,3.87,754,0,0
+Serious Sam 2,2005,Action,2,2,3.55,489,0,0
+Halo 3,2007,Shooter,3,2,4.37,792,0,1
+Celeste,2018,Indie,6,6,4.37,1750,0,1
+Lord of the Rings: War in the North,2011,Action,3,3,3.35,394,0,0
+Oddworld: Abe's Oddysee,1997,Action,4,3,3.55,563,0,1
+Binary Domain,2012,Action,3,2,3.56,551,0,0
+Transistor,2014,Action,6,4,4.16,1488,0,1
+Bulletstorm: Full Clip Edition,2017,Action,4,4,3.93,643,0,0
+Shank,2010,Action,5,2,3.66,382,0,0
+Moonlighter,2018,Action,8,5,3.74,505,0,1
+Stories: The Path of Destinies,2016,Action,3,4,3.22,508,0,0
+Halo Infinite,2021,Action,3,2,3.64,745,0,1
+Among Us,2018,Action,7,5,3.83,1375,0,1
+STAR WARS - The Force Unleashed Ultimate Sith Edition,2009,Action,4,3,3.83,383,0,0
+Wreckfest,2018,Racing,8,3,3.68,386,0,0
+Marvel Heroes,2013,Action,4,2,2.5,327,0,1
+BattleBlock Theater,2013,Action,5,5,3.84,910,0,1
+Deus Ex 2: Invisible War,2003,Action,2,1,3.11,307,0,1
+F.E.A.R.,2005,Action,3,2,4.27,1055,0,1
+Shadowrun Returns,2013,RPG,5,4,3.5,735,0,0
+INSIDE,2016,Action,6,4,4.39,2623,0,1
+Back 4 Blood,2021,Action,5,6,3.23,339,0,0
+Anomaly: Warzone Earth,2011,Action,7,2,2.9,226,0,1
+Darksiders,2010,Action,5,3,3.76,1218,0,1
+Gears of War 3,2011,Shooter,2,16,4.2,603,0,1
+Resident Evil 4 (2005),2005,Action,7,5,4.4,1866,0,1
+Slime Rancher,2016,Action,6,6,3.87,592,0,1
+Dead by Daylight,2016,Action,5,10,3.5,1005,0,0
+Dark Souls: Prepare To Die Edition,2012,Action,3,14,4.37,1272,0,1
+Machinarium,2009,Adventure,10,3,4.18,930,0,1
+Shadow of the Tomb Raider,2018,Action,5,10,3.91,1677,0,0
+"Papers, Please",2013,Simulation,6,4,4.38,1793,0,1
+Castle Crashers,2008,Action,5,4,3.89,1225,0,1
+Overcooked! 2,2018,Action,6,4,4.15,819,0,1
+FTL: Faster Than Light,2012,Strategy,4,6,4.25,970,0,1
+Shadow Tactics: Blades of the Shogun,2016,Strategy,5,4,4.08,466,0,1
+Superliminal,2019,Indie,6,3,4.16,521,0,0
+Firewatch,2016,Adventure,6,5,4.3,2547,0,1
+inFAMOUS: First Light,2014,Action,1,1,3.72,732,0,0
+Valiant Hearts: The Great War,2014,Adventure,8,6,4.36,1381,0,1
+LEGO Batman 2 DC Super Heroes,2012,Action,12,4,3.68,369,0,0
+Kane and Lynch: Dead Men,2007,Action,3,1,3.6,467,0,0
+Hearts of Iron IV,2016,Strategy,3,8,4.05,387,0,1
+Devil May Cry 5,2019,Action,4,9,4.25,1574,0,1
+Children of Morta,2019,Action,6,4,3.91,410,0,1
+Dear Esther,2012,Adventure,3,1,3.47,369,0,0
+The Last Guardian,2016,Action,1,7,4.08,754,0,1
+Far Cry 6,2021,Action,5,8,3.36,509,0,0
+Need for Speed Rivals,2013,Racing,5,2,3.15,691,0,0
+Pyre,2017,Adventure,4,4,4.16,493,0,1
+How to Survive,2013,Action,6,3,3.02,379,0,0
+Assassin's Creed Revelations,2011,Action,5,14,3.99,1490,0,1
+The Bridge,2013,Strategy,10,3,3.26,254,0,0
+Call of Duty: Modern Warfare (2019),2019,Action,3,9,3.77,746,0,1
+Borderlands Game of the Year Enhanced,2019,Action,4,3,3.8,1046,0,0
+Code Vein,2019,Action,3,7,3.51,380,0,0
+Red Faction: Armageddon,2011,Action,3,2,3.04,399,0,0
+Hellblade: Senua's Sacrifice VR Edition,2018,Action,1,1,3.57,244,0,1
+Undertale,2015,RPG,8,5,4.35,1925,0,1
+Uncharted 3: Drake's Deception,2011,Action,2,12,4.37,1969,0,1
+Capcom Arcade Stadium,2021,Action,4,1,2.68,73,0,0
+HELLDIVERS,2015,Action,3,5,3.61,565,0,1
+DayZ,2013,Action,3,17,3.08,471,0,0
+Monaco: What's Yours Is Mine,2013,Action,4,3,2.99,366,0,1
+Call of Duty: Black Ops Cold War,2020,Action,5,11,3.8,392,0,0
+Call of Duty: WWII,2017,Action,3,6,3.55,1203,0,0
+Deus Ex: The Fall,2013,Action,3,3,2.7,244,0,0
+Condemned: Criminal Origins,2005,Action,2,1,3.82,424,0,1
+Sid Meier's Civilization III Complete,2001,Strategy,1,1,3.71,467,0,1
+Trials Fusion,2014,Racing,4,4,3.53,614,0,1
+Mass Effect 3,2012,Action,5,30,4.4,1796,0,1
+State of Decay 2,2018,Action,2,8,3.29,517,0,0
+Stellaris,2016,Strategy,3,10,4.11,704,0,0
+Deus Ex: Human Revolution,2011,Action,5,17,4.37,1567,0,1
+AudioSurf,2008,Indie,1,3,3.93,555,0,1
+Fable III,2010,Action,3,8,3.73,713,0,0
+Overcooked,2016,Simulation,4,4,4.07,1365,0,1
+Gris,2018,Adventure,9,3,4.2,1098,0,1
+Tomb Raider: Underworld,2008,Action,6,1,3.7,526,0,1
+Guacamelee! Super Turbo Championship Edition,2014,Action,6,3,3.55,830,0,1
+Planetary Annihilation,2014,Strategy,3,7,2.86,176,0,0
+Astroneer,2019,Adventure,4,9,3.78,514,0,0
+HELL YEAH! Wrath of the Dead Rabbit,2012,Action,3,1,2.44,297,0,0
+Mark of the Ninja,2012,Action,5,5,3.99,777,0,1
+Titan Quest,2006,Action,6,1,3.91,579,0,0
+Call of Duty: Infinite Warfare,2016,Action,3,10,3.58,635,0,0
+Project CARS,2015,Simulation,3,4,3.57,270,0,1
+Ni no Kuni II: Revenant Kingdom,2018,Adventure,5,7,3.89,444,0,1
+Prototype 2,2012,Action,5,6,3.8,620,0,0
+DOOM II,1994,Action,10,1,4.39,734,0,1
+LEGO Batman 3: Beyond Gotham,2014,Action,10,5,3.61,235,0,0
+LEGO Batman,2008,Action,9,2,3.77,494,0,1
+Psychonauts 2,2021,Action,6,11,4.36,404,0,1
+Thief Gold,1999,Action,1,1,4.02,264,0,1
+Burnout Paradise,2008,Racing,2,8,4.09,627,0,1
+Just Cause 4,2018,Action,3,5,3.04,525,0,0
+Just Cause 3,2015,Action,3,7,3.4,1601,0,0
+The Witness,2016,Adventure,6,4,4.01,1299,0,1
+Thief 3: Deadly Shadows,2004,Action,2,1,3.78,230,0,1
+Counter-Strike: Condition Zero,2004,Action,3,1,3.14,832,0,0
+Uncharted: Drake's Fortune,2007,Action,2,12,4.03,1502,0,1
+The Witcher: Enhanced Edition Director's Cut,2008,Action,2,5,4.06,2071,0,1
+The Surge,2017,Action,3,4,3.19,607,0,0
+Total War: SHOGUN 2,2011,Strategy,3,5,3.62,632,0,1
+Conan Exiles,2017,Action,3,10,2.84,461,0,0
+Wizard of Legend,2018,Action,6,3,3.54,248,0,0
+STAR WARS Jedi Knight: Dark Forces II,1997,Action,1,1,3.69,207,0,1
+House Flipper,2018,Adventure,6,7,3.84,356,0,0
+Mass Effect,2007,Action,4,9,4.39,2725,0,1
+Factorio,2020,Strategy,4,20,4.36,824,0,1
+Grim Fandango Remastered,2015,Adventure,9,5,4.0,913,0,1
+Skullgirls,2012,Action,3,5,3.75,325,0,1
+Kingdom: New Lands,2015,Strategy,8,4,3.89,375,0,1
+Alien Swarm,2010,Action,1,2,3.33,714,0,0
+Risk of Rain,2013,Action,7,4,3.91,496,0,0
+Horizon Chase Turbo,2018,Action,6,3,3.43,411,0,0
+Don't Starve,2013,Indie,8,4,3.85,1137,0,0
+Crash Bandicoot N. Sane Trilogy,2017,Action,4,4,4.12,663,0,1
+Persona 5,2016,Action,2,105,4.34,1465,0,1
+Tales of Berseria,2016,Action,3,6,3.97,343,0,1
+The Bureau: XCOM Declassified,2013,Action,4,3,3.05,659,0,0
+Tomb Raider,2013,Action,4,10,4.06,4131,0,1
+Tom Clancy’s The Division 2,2019,Action,4,5,3.74,781,0,1
+Assetto Corsa,2014,Simulation,3,2,3.91,230,0,1
+"Warhammer 40,000: Dawn of War II",2009,RPG,3,6,3.96,396,0,1
+Dark Messiah of Might and Magic,2006,Action,2,2,4.3,685,0,0
+Rage 2,2019,Action,3,11,3.24,733,0,0
+Warface: Ice Breaker,2014,Action,1,2,2.42,176,0,0
+Just Cause 2,2010,Action,4,3,3.62,1372,0,1
+Legend of Grimrock,2012,Adventure,4,3,3.8,301,0,1
+Golf With Your Friends,2016,Sports,6,4,3.83,373,0,0
+The LEGO NINJAGO Movie Video Game,2017,Action,4,1,2.93,285,0,0
+Furi,2016,Action,4,4,3.93,721,0,0
+Hotline Miami,2012,Action,6,5,4.38,2679,0,1
+Grand Theft Auto: San Andreas,2004,Action,10,2,4.5,4099,0,1
+Darkest Dungeon,2016,RPG,7,8,4.17,1366,0,1
+Tom Clancy's Rainbow Six Siege,2015,Action,5,32,3.88,1534,0,0
+Horizon Zero Dawn,2017,Action,2,11,4.27,3827,0,1
+"Warhammer 40,000: Dawn of War II: Retribution",2011,RPG,3,6,3.82,269,0,1
+Torchlight II,2012,Action,6,10,3.84,1079,0,1
+Sniper Elite 3,2014,Action,6,5,3.53,521,0,0
+Battlefield 3,2011,Action,4,4,4.08,1382,0,1
+Deus Ex: Game of the Year Edition,2000,Action,4,1,4.12,576,0,1
+Call of Duty: World at War,2008,Shooter,6,8,3.96,1225,0,1
+Dino D-Day,2011,Action,1,3,2.42,214,0,0
+Star Wars: Battlefront II (2005),2005,Action,4,2,4.22,856,0,0
+Aegis Defenders,2018,Action,4,1,2.53,110,0,0
+Fable Anniversary,2014,RPG,2,4,4.07,602,0,0
+Elden Ring,2022,Action,5,62,4.39,1509,0,1
+Prey,2017,Action,3,10,4.28,2283,0,1
+Evolve Stage 2,2015,Action,1,3,2.57,452,0,0
+Antichamber,2013,Indie,3,3,4.08,439,0,1
+Max Payne 3,2012,Action,4,10,4.26,1959,0,1
+SteamWorld Heist,2015,Action,9,5,3.94,328,0,1
+Super Mario Odyssey,2017,Arcade,1,0,4.42,1965,0,1
+The Elder Scrolls V: Skyrim Special Edition,2016,Action,3,9,4.45,1984,0,0
+Destiny 2,2017,Action,6,6,3.52,2695,0,1
+Resident Evil 5,2009,Action,6,11,3.82,1660,0,1
+BioShock 2,2010,Action,7,3,4.07,1978,0,1
+Fallout 76,2018,Action,3,7,2.84,673,0,0
+Vampyr,2018,Action,4,6,3.49,907,0,0
+Divinity: Original Sin 2,2017,RPG,4,22,4.38,1701,0,1
+Untitled Goose Game,2019,Action,5,2,4.05,725,0,1
+Sleeping Dogs: Definitive Edition,2014,Action,4,6,4.15,1201,0,0
+PlayerUnknown’s Battlegrounds,2017,Action,3,29,3.27,2026,0,1
+Far Cry 3: Blood Dragon,2013,Shooter,5,4,4.0,1139,0,1
+Cave Story+,2010,Action,7,2,3.95,320,0,1
+ENSLAVED: Odyssey to the West Premium Edition,2013,Action,3,3,3.97,365,0,0
+"Invisible, Inc.",2015,Adventure,6,3,3.53,346,0,1
+FINAL FANTASY XV,2016,RPG,3,5,3.87,1443,0,1
+Hawken,2014,Action,3,1,2.83,296,0,0
+Forza Horizon 4,2018,Racing,3,13,4.37,1670,0,1
+Ashes of the Singularity: Escalation,2016,RPG,1,3,2.41,68,0,1
+Never Alone,2014,Adventure,8,4,3.47,620,0,0
+Shadowrun: Dragonfall - Director's Cut,2014,Adventure,6,4,3.81,370,0,1
+Kentucky Route Zero,2020,Adventure,6,2,3.98,321,0,1
+Black Mesa,2020,Action,2,6,4.35,1095,0,1
+Star Wars: Knights of the Old Republic,2003,Action,8,2,4.35,1483,0,1
+Call of Duty: Modern Warfare 2,2009,Shooter,5,22,4.27,2093,0,1
+Remnant: From the Ashes,2019,Action,4,7,3.61,672,0,0
+Dragon Age: Origins - Ultimate Edition,2010,RPG,3,6,4.44,491,0,1
+Medal of Honor,2010,Shooter,3,2,3.28,709,0,0
+POSTAL,1997,Action,3,2,3.0,247,0,0
+Shadow Warrior 2,2016,Action,3,5,3.52,616,0,0
+Hue,2016,Adventure,8,2,3.37,344,0,0
+Batman: Arkham City - Game of the Year Edition,2012,Action,6,9,4.4,1472,0,1
+Far Cry,2004,Action,6,1,3.9,891,0,1
+Rogue Legacy,2013,Action,7,6,3.87,929,0,1
+The Witcher 3: Wild Hunt,2015,Action,7,43,4.64,7323,0,1
+Little Nightmares II,2021,Action,6,6,4.37,586,0,1
+This is the Police,2016,Adventure,8,6,3.88,724,0,0
+Uncharted 4: A Thief’s End,2016,Action,2,0,4.48,3777,0,1
+Call of Duty: Black Ops,2010,Action,8,9,4.05,1891,0,1
+Apex Legends,2019,Action,5,5,3.63,2444,0,1
+God of War II,2007,Action,3,17,4.4,984,0,1
+Plants vs. Zombies GOTY Edition,2010,Strategy,10,5,4.33,742,0,1
+Deathloop,2021,Action,3,6,3.96,562,0,1
+Metro: Last Light,2013,Action,3,8,4.12,1077,0,1
+F.E.A.R. 2: Project Origin,2009,Action,3,4,3.86,699,0,0
+Hades,2020,Action,6,10,4.42,2138,0,1
+Mafia: Definitive Edition,2020,Action,4,10,4.24,1158,0,0
+SteamWorld Dig 2,2017,Action,8,5,4.06,440,0,1
+Mafia II: Definitive Edition,2020,Action,3,3,3.89,636,0,0
+Gunpoint,2013,Action,3,3,4.03,295,0,1
+Dragon Age: Inquisition,2014,Action,5,4,3.8,1581,0,1
+BioShock,2007,Action,4,3,4.36,3410,0,1
+Prison Architect,2015,Strategy,6,5,3.72,588,0,1
+Oddworld: New 'n' Tasty,2014,Action,11,4,3.52,392,0,1
+Deponia,2012,Adventure,7,4,3.85,729,0,0
+PAYDAY The Heist,2011,Action,2,4,3.35,789,0,0
+Assassin’s Creed III,2012,Action,6,22,3.75,2211,0,1
+Shadowrun: Hong Kong - Extended Edition,2015,Adventure,3,5,3.83,224,0,1
+GreedFall,2019,Action,3,4,3.34,415,0,0
+Wasteland 3,2020,RPG,5,6,4.06,312,0,1
+Surgeon Simulator,2013,Action,7,3,3.43,574,0,0
+Mini Metro,2015,Strategy,7,3,4.09,458,0,0
+F1 2015,2015,Sports,4,5,2.7,276,0,0
+Euro Truck Simulator 2,2012,Simulation,3,12,4.12,924,0,0
+LittleBigPlanet 3,2014,Adventure,2,3,3.51,719,0,0
+Loadout,2014,Action,2,3,2.48,436,0,0
+Yakuza Kiwami 2,2017,Action,3,10,4.38,418,0,1
+Magicka,2011,Action,2,5,3.79,1098,0,0
+Absolver,2017,Action,3,3,2.91,406,0,0
+Hard Reset Extended Edition,2012,Action,1,2,3.19,209,0,0
+Just Cause,2006,Action,4,1,3.29,451,0,0
+Arma 3,2013,Action,1,16,3.84,405,0,0
+"Warhammer 40,000: Dawn of War - Game of the Year Edition",2007,Strategy,1,3,3.98,369,0,1
+Amnesia: The Dark Descent,2010,Action,3,2,3.65,1257,0,1
+Uncharted: The Lost Legacy,2017,Action,2,0,4.27,1290,0,1
+South Park: The Fractured But Whole,2017,Adventure,4,12,4.04,831,0,1
+FIFA 18,2017,Sports,5,0,3.37,706,0,0
+The Walking Dead: Season 2,2013,Action,10,10,4.06,1486,0,1
+Cyberpunk 2077,2020,Action,6,29,4.23,3125,0,0
+Guns of Icarus Online,2012,Action,3,4,2.59,406,0,0
+Spyro Reignited Trilogy,2018,Action,4,5,4.13,550,0,1
+The Stanley Parable,2013,Adventure,3,3,4.37,2052,0,1
+Assassin's Creed Syndicate,2015,Action,3,22,3.66,1537,0,0
+A Plague Tale: Innocence,2019,Action,6,7,4.15,1584,0,1
+Spelunky,2012,Indie,5,3,3.68,642,0,1
+Sonic Adventure DX: Director's Cut,2003,Adventure,4,2,3.91,329,0,0
+The Elder Scrolls IV: Oblivion Game of the Year Edition,2009,RPG,3,5,4.32,682,0,1
+Prototype,2009,Action,5,3,3.8,1076,0,0
+Serious Sam 3: BFE,2011,Action,5,4,3.46,784,0,0
+Pathfinder: Kingmaker,2018,RPG,5,10,3.92,333,0,0
+Star Wars: Knights of the Old Republic II – The Sith Lords,2004,Adventure,7,4,4.35,936,0,1
+Assassin’s Creed Rogue,2014,Action,6,12,3.72,798,0,0
+Assassin's Creed Odyssey,2018,Action,4,31,3.97,2139,0,1
+Sonic & All-Stars Racing Transformed,2012,Sports,9,5,3.91,405,0,0
+Fall Guys: Ultimate Knockout,2020,Action,5,6,3.73,1381,0,1
+The Elder Scrolls III: Morrowind,2002,RPG,3,2,4.37,1060,0,1
+Metro 2033 Redux,2014,Action,6,6,4.1,1952,0,1
+Kerbal Space Program,2015,Simulation,5,5,4.15,413,0,1
+Sanctum 2,2013,Action,5,3,2.97,399,0,0
+Dead Space 2,2011,Action,4,5,4.38,1420,0,1
+Blasphemous,2019,Action,6,3,4.04,591,0,0
+Heavy Rain,2010,Action,3,5,4.12,2497,0,1
+Her Story,2015,Adventure,4,4,3.97,634,0,1
+DOOM (2016),2016,Action,4,10,4.38,3675,0,1
+Halo: Reach,2010,Shooter,3,11,4.29,790,0,1
+Injustice: Gods Among Us Ultimate Edition,2013,Action,5,5,3.53,1432,0,1
+Titanfall 2,2016,Action,3,5,4.31,2119,0,1
+"Warhammer 40,000: Space Marine",2011,Action,3,5,3.48,757,0,0
+The Crew,2014,Adventure,4,16,3.32,479,0,0
+Assassin's Creed Valhalla,2020,Action,5,5,3.68,824,0,1
+Resident Evil 7: Biohazard,2017,Action,5,10,4.33,2026,0,1
