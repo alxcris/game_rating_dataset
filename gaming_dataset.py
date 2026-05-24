@@ -1,13 +1,13 @@
 import requests
 import pandas as pd
+import os
 from dotenv import load_dotenv
 
 #ca sa nu dam reveal la api_key(ca sa il pun pe github)
 load_dotenv()
 
-API_KEY = "c5f0fbc2e0f74b24842f4a29c129b927" 
-URL = "https://api.rawg.io/api/games?key=" + "c5f0fbc2e0f74b24842f4a29c129b927"
-+ "&page_size=40"
+API_KEY = os.getenv("API_KEY")
+URL = f"https://api.rawg.io/api/games?key={API_KEY}&page_size=40"
 
 toate_jocurile = [] #o lista goala cu jocurile rand pe rand
 
@@ -22,7 +22,7 @@ for pagina in range(1, 26):
         #incepem formarea unui hashtable pentru jocul curent
         date_dictionar = raspuns.json()
         
-        #results este cheia sub care se află lista cu jocurile de pe pagina curentă
+        #results este locul unde se afla lista cu jocurile de pe pagina
         for joc in date_dictionar['results']:
             
             #verificam daca jocul are o nota de la metacritic
