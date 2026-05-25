@@ -5,7 +5,7 @@ import os
 from sklearn.model_selection import train_test_split
 from dotenv import load_dotenv
 
-#ca sa nu dam reveal la api_key(ca sa il pun pe github)
+#ca sa nu dam reveal la api_key ca sa il pun pe github
 load_dotenv()
 
 API_KEY = os.getenv("API_KEY")
@@ -76,8 +76,6 @@ df_train, df_test = train_test_split(df, test_size=0.3, random_state=42)
 print(f"\nSet antrenare: {len(df_train)} instante.")
 print(f"Set testare: {len(df_test)} instante.")
 
-#punem dataset-ul de training si cel de test in fisiere diferite
-df_train.to_csv("train_dataset.csv", index=False)
-df_test.to_csv("test_dataset.csv", index=False)
-
-print("Fisierele CSV s au format cu succes")
+#punem dataset-ul de training si cel de test in fisiere csv
+df_train.to_csv("train.csv", index=False)
+df_test.to_csv("test.csv", index=False)
