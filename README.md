@@ -31,11 +31,11 @@ Dataset-ul final contine 8 coloane:
 
 ## ============================== Antrenare Model ========================== ##
 
-    In antrenarea modelului,ne-am folosit de regresia liniara din sci-kit learn
+    In antrenarea modelului,ne-am folosit de regresia logistica din sci-kit learn
 in care variabila x are rolul de a fi variabila analizata si y variabila de 
 antrenare a modelului.Dupa ce verificam ca avem un numar de coloane egale 
 (daca nu avem, umplem cu zero pana avem egalitate ca antrenarea sa fie valida)
-iar apoi aplicam regresia liniara pentru antrenare.Dupa ce modelul s-a antrenat
+iar apoi aplicam regresia lgoistica pentru antrenare.Dupa ce modelul s-a antrenat
 ii analizam performanta si accuracy-ul,verificand aceste date cu matricea de
 confuzie de unde reiese ca modelul nostru are 80% accuracy care e un procentaj
 foarte ridicat pentru detectarea succesului jocurilor video.Modelul nostru,
@@ -54,7 +54,7 @@ aproape mereu Hit, jocurile intre 3.5 si 4.2 sunt de obicei cele mai apreciate
 de utilizatori,fapt care arata ca jocurile de la firmele mari si foarte
 asteptate de comunitate tind sa fie mai dur criticate de catre utilizatori fata
 de jocurile indie care surprins si ajung sa devina Hit.
-    De asemenea observam ca modelul de regresie liniara din scikit-learn a
+    De asemenea observam ca modelul de regresie logistica din scikit-learn a
 avut un succes foarte mare in prezicerea jocurilor de succes ceea ce ne arata
 ca in general,desi sunt cazuri de exceptie ,comunitatea alaturi de notele date
 de 'Metacritic' sunt relativ obiective,ceea ce face ca modelul sa poata prezice
